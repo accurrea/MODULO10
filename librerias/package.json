@@ -1,12 +1,12 @@
 {
-  "name": "modulo10",
+  "name": "librerias",
   "version": "1.0.0",
-  "description": "contenido de el modulo10",
+  "description": "",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Andres Currea",
+  "keywords": [],
+  "author": "",
   "license": "ISC"
 }
